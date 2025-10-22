@@ -36,7 +36,7 @@ Represents a single recycling activity.
 - `date`: date of recycling  
 - `ecoPoints`: points earned for this event  
 
-#### `EcoPointsTracker` (Main Class)
+#### `EcoPointsRecyclingTracker` (Main Class)
 Handles user interactions and overall program logic:
 - Register new households  
 - Log recycling events  
@@ -100,7 +100,7 @@ This project runs in the same way as my previous Java project.
 
 🔗 [https://github.com/dtkienIT/java-oop-basics](https://github.com/dtkienIT/java-oop-basics.git)
 
-Once you’ve reviewed that, you can run this project’s `EcoPointsTracker.java` file in the same manner.
+Once you’ve reviewed that, you can run this project’s `EcoPointsRecyclingTracker.java` file in the same manner.
 
 ---
 
